@@ -15,8 +15,17 @@ You can easily generate strong and high quality password by yourself.
 Latest version 2.3.1
 
 ## Instructions
-
-
+* NodeJS required.
+* Copy snippet and paste into your terminal.
+```
+git clone https://github.com/ridz97/Password-Generator-For-Media-Social.git
+```
+```
+cd Password-Generator-For-Media-Social
+```
+```
+npm start
+```
 ## Technologies
 Project is created with:
 * HTML
