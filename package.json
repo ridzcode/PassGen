@@ -1,0 +1,32 @@
+{
+  "name": "passgen",
+  "version": "2.3.1",
+  "description": "This is password generator app",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron .",
+    "dist": "electron-builder"
+  },
+  "author": "ridz97",
+  "license": "ISC",
+  "build": {
+    "appId": "com.ridz97.passgen",
+    "win": {
+      
+      "target": "nsis",
+      "icon": "build/icon.png"
+    },
+    "mac": {
+      "category": "public.app-category.utilities",
+      "icon": "build/icon.png"
+    },
+    "asar": true
+  },
+  "devDependencies": {
+    "electron": "^8.2.1",
+    "electron-builder": "^22.4.1"
+  },
+  "dependencies": {
+    "file-saver": "^2.0.2"
+  }
+}
