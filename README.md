@@ -12,7 +12,7 @@
 You can easily generate strong and high quality password by yourself.
 
 ## Version
-Latest version 2.1.1
+Latest version 2.3.1
 
 ## Instructions
 
