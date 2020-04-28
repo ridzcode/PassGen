@@ -27,7 +27,6 @@ cd Password-Generator-For-Media-Social
 npm start
 ```
 ## Technologies
-Project is created with:
 * HTML
 * CSS
 * Node
