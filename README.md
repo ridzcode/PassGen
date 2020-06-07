@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="460" height="300" src="build/icon.png">
+</p>
+
 # Password-Generator-For-Media-Social
 >This is my first project desktop app with electron framework
 
