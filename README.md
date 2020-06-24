@@ -22,7 +22,7 @@ Latest version 2.3.1
 * NodeJS required.
 * Copy snippet and paste into your terminal.
 ```
-git clone https://github.com/ridz97/Password-Generator-For-Media-Social.git
+git clone https://github.com/ridzcode/Password-Generator-For-Media-Social.git
 ```
 ```
 cd Password-Generator-For-Media-Social
